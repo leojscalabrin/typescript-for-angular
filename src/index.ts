@@ -11,3 +11,5 @@ printaObjeto({
   name: "Bruce Wayne",
   vulgo: "Batman",
 });
+
+console.log(addToHello("Ednaldo"))
